@@ -11,7 +11,7 @@ TODO: How can we incorporate Tower into this?
 4. Infrastructure Overview and Managing Reports
 5. Service Catalog Provisioning
 6. Self-service Interface
-	a. CloudForms Self-Service Portal (From JM's demo.)
+* CloudForms Self-Service Portal (From JM's demo.)
 7. Automating IT Processes with Policies
-	a. Day 2 Operations & Service Definition in CloudForms with Ansible (Where do we fit this in? From JM's demo.)
+* Day 2 Operations & Service Definition in CloudForms with Ansible (Where do we fit this in? From JM's demo.)
 8. Tagging and Cost Analysis
