@@ -1,4 +1,6 @@
-# Ansible Lightbulb
+# CloudForms Lightbulb
+
+This is a clone of Lightbulb, for Red Hat CloudForms.
 
 The Ansible Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Ansible topics.
 
@@ -10,15 +12,15 @@ Over time lightbulb will be expanded to include advanced and developer topics in
 
 To support these objectives, the project provides a lab provisioner tool for creating an environment to present and work with lightbulb content.
 
-### What's Provided
+### What's Provided - TBD
 
-The Ansible Lightbulb project has been designed to be used as a toolkit and best practices reference for Ansible presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
+The Lightbulb project has been designed to be used as a toolkit and best practices reference for CloudForms presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
 
-* Examples
-* Workshops
-* Presentation Decks
-* Lab Provisioner
-* Facilitator Guide
+* Examples -- TBD
+* Workshops -- In Progress
+* Presentation Decks -- TBD
+* Lab Provisioner -- In Progress
+* Facilitator Guide -- TBD
 
 #### Examples
 
@@ -50,7 +52,8 @@ Lightbulb provides a lab provisioner utility for creating a personal lab environ
 
 If you are planning on using lightbulb for some sort of informal training on automating with Ansible [this documentation](facilitator/README.md) should be your next stop.
 
-### Requirements
+### Requirements - TBD
+
 
 True to its philosophy and The Ansible Way, Lightbulb has been developed so that using lightbulb is as simple and low-overhead as possible. Requirements depend on the format and delivery of the lightbulb content.
 
@@ -60,19 +63,19 @@ True to its philosophy and The Ansible Way, Lightbulb has been developed so that
 * A SSH client such as PuTTY or Mac OSX Terminal.
 * An AWS account or local Vagrant setup.
 
-#### Assumed Knowledge
+#### Assumed Knowledge - TBD
 
 For hands-on or self-paced training, students should have working knowledge of using SSH and command line shell (BASH). The ability to SSH from their personal laptop to a lab environment hosted in a public cloud can also be required based on the format and presentation of the context.
 
 For demos and instrcutor-led exercises, conceptual understanding of linux system admin, DevOps and distributed application architecture is all that is required.
 
-### Reference
+### Reference - TBD
 
 * [Ansible Documentation](http://docs.ansible.com)
 * [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials)
 
 ### License
 
-Red Hat, the Shadowman logo, Ansible, and Ansible Tower are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
+Red Hat, the Shadowman logo, Ansible, Ansible Tower, and CloudForms are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
 
 All other parts of Ansible Lightbulb are made available under the terms of the [MIT License](LICENSE).
