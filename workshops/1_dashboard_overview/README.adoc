@@ -25,7 +25,7 @@ To get started we will see that not only can we click on graphs and move the per
 image:img_1.png[]
 
 
-
+[start=2]
 . We can also add additional Widgets by using the “+” icon at the top left.
 . Now click on the “Gold Chargeback (Weekly)” Widget as shown below:
 
