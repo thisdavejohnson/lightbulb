@@ -33,10 +33,12 @@ image:img_1.png[]
 
 image:img_2.png[]
 
+[start=4]
 . Once we have our new widget click on the three dots on the top right.
 
 image:img_3.png[]
 
+[start=5]
 . Widgets are basically a front end to reports which we will cover later, however they provide a quick shortcut to access that data in report form.  Click on the Download PDF button to see an example chargeback report.
 
 
